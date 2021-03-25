@@ -1,0 +1,26 @@
+{
+    "id": "60011703",
+    "path": "~/codeclan_projects/cancer_rates_nhs_borders/analysis.Rmd",
+    "project_path": "analysis.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612338793819.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "cursorPosition": "105,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612626002,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612626002695,
+    "read_only": false,
+    "read_only_alternatives": []
+}
